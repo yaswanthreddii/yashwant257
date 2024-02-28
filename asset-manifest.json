@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yashwanthreddii.github.io/static/css/main.f8a5ba8f.css",
-    "main.js": "/yashwanthreddii.github.io/static/js/main.53033c74.js",
-    "static/js/453.1b6cbde4.chunk.js": "/yashwanthreddii.github.io/static/js/453.1b6cbde4.chunk.js",
-    "index.html": "/yashwanthreddii.github.io/index.html",
-    "main.f8a5ba8f.css.map": "/yashwanthreddii.github.io/static/css/main.f8a5ba8f.css.map",
-    "main.53033c74.js.map": "/yashwanthreddii.github.io/static/js/main.53033c74.js.map",
-    "453.1b6cbde4.chunk.js.map": "/yashwanthreddii.github.io/static/js/453.1b6cbde4.chunk.js.map"
+    "main.css": "/yashwant257/static/css/main.f8a5ba8f.css",
+    "main.js": "/yashwant257/static/js/main.d5bcceb8.js",
+    "static/js/453.1b6cbde4.chunk.js": "/yashwant257/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/yashwant257/index.html",
+    "main.f8a5ba8f.css.map": "/yashwant257/static/css/main.f8a5ba8f.css.map",
+    "main.d5bcceb8.js.map": "/yashwant257/static/js/main.d5bcceb8.js.map",
+    "453.1b6cbde4.chunk.js.map": "/yashwant257/static/js/453.1b6cbde4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8a5ba8f.css",
-    "static/js/main.53033c74.js"
+    "static/js/main.d5bcceb8.js"
   ]
 }
